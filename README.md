@@ -21,3 +21,5 @@ This is a eight(8) page report that enables stakeholders to track and analyze ke
 
 **Farming Analytics**
 ![Image]()
+
+[Explore Report](https://app.powerbi.com/view?r=eyJrIjoiYmQ3MDg4N2EtMWNkZS00ODMzLThlMjktNjc3YWJiYzI4ZTlmIiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
