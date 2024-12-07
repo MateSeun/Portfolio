@@ -20,6 +20,10 @@ This is a eight(8) page report that enables stakeholders to track and analyze ke
 [Explore Report](https://app.powerbi.com/view?r=eyJrIjoiOWQ3MTI3M2YtNDMwNy00OWM1LTk4NDItYWQxMTYxNDU5ODAzIiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
 
 **Farming Analytics**
-![Image]()
+![Image](Farming analytics.png)
+
+This is a six(6) page report that provides end users with actionable insights into crop performance, resource utilization, and workforce efficiency, empowering data-driven decisions to enhance productivity and profitability.
+
+[Read More]()
 
 [Explore Report](https://app.powerbi.com/view?r=eyJrIjoiYmQ3MDg4N2EtMWNkZS00ODMzLThlMjktNjc3YWJiYzI4ZTlmIiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
