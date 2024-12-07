@@ -8,7 +8,9 @@ Hi! I'm Seun Mate 🙂, A results-driven data analyst with a strong foundation i
 
 ## MY PORTFOLIO
 
-*A snapshot of some project I worked on.*
+*A snapshot of some projects I worked on.*
 
 **Airline Operation Report**
-![Image]()
+![Image](Flight Operation.png)
+
+This is a eight(8) page report that enables stakeholders to track and analyze key performance indicators (KPIs) across different areas of airline operations, supporting data-driven decisions that align with organizational objectives.
