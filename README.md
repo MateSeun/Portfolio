@@ -4,5 +4,11 @@ Hi! I'm Seun Mate 🙂, A results-driven data analyst with a strong foundation i
 
 ## WHAT I DO
 
-As a Data Analyst Consultant at Wragby Business Solutions, I oversee report creation for stakeholders across industries, train users on Power BI, manage management staff attendance using Power BI, and render support to industries related to Business intelligence.
+*As a Data Analyst Consultant at Wragby Business Solutions, I oversee report creation for stakeholders across industries, train users on Power BI, manage management staff attendance using Power BI, and render support to industries related to Business intelligence.*
 
+## MY PORTFOLIO
+
+*A snapshot of some project I worked on.*
+
+**Airline Operation Report**
+![Image]()
