@@ -29,10 +29,9 @@ This is a six(6) page report that provides end users with actionable insights in
 [Explore Report](https://app.powerbi.com/view?r=eyJrIjoiYmQ3MDg4N2EtMWNkZS00ODMzLThlMjktNjc3YWJiYzI4ZTlmIiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
 
 **Energy Consumption Report**
-![Image](Flight Operation.png)
+![Image](Electricity.png.png)
 
-This is a eight(8) page report that enables stakeholders to track and analyze key performance indicators (KPIs) across different areas of airline operations, supporting data-driven decisions that align with organizational objectives.
+The report provides an analysis of energy consumption, focusing on two primary types: natural gas and electricity. It highlights energy usage across various sectors, enabling users to identify consumption patterns and trends. This insight will assist organizations in optimizing energy allocation to different sectors based on their specific demands, ensuring efficiency and meeting sectoral energy needs effectively.
 
-[Read More]()
 
 [Explore Report](https://app.powerbi.com/view?r=eyJrIjoiYzVlNzdjMWYtZTNiNC00MThmLTk0NDAtOTc2MDZmMGE0MTRmIiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
