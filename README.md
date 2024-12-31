@@ -27,3 +27,12 @@ This is a six(6) page report that provides end users with actionable insights in
 [Read More]()
 
 [Explore Report](https://app.powerbi.com/view?r=eyJrIjoiYmQ3MDg4N2EtMWNkZS00ODMzLThlMjktNjc3YWJiYzI4ZTlmIiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
+
+**Energy Consumption Report**
+![Image](Flight Operation.png)
+
+This is a eight(8) page report that enables stakeholders to track and analyze key performance indicators (KPIs) across different areas of airline operations, supporting data-driven decisions that align with organizational objectives.
+
+[Read More]()
+
+[Explore Report](https://app.powerbi.com/view?r=eyJrIjoiYzVlNzdjMWYtZTNiNC00MThmLTk0NDAtOTc2MDZmMGE0MTRmIiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
