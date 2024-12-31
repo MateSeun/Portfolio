@@ -13,16 +13,14 @@ Hi! I'm Seun Mate 🙂, A results-driven data analyst with a strong foundation i
 **Airline Operation Report**
 ![Image](Flight Operation.png)
 
-This is a eight(8) page report that enables stakeholders to track and analyze key performance indicators (KPIs) across different areas of airline operations, supporting data-driven decisions that align with organizational objectives.
-
-[Read More]()
+This report provides a comprehensive overview of airline operations, including passenger boarding patterns, comparisons of scheduled versus operated flights, flight delays and cancellations with their causes, and flight time metrics. It also evaluates call center performance, analyzing agent efficiency and call dispositions, while addressing customer concerns to assess overall service quality. These insights empower users to mitigate delays, reduce cancellations, and enhance operational efficiency.
 
 [Explore Report](https://app.powerbi.com/view?r=eyJrIjoiOWQ3MTI3M2YtNDMwNy00OWM1LTk4NDItYWQxMTYxNDU5ODAzIiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
 
 **Farming Analytics**
 ![Image](Farming analytics.png)
 
-This is a six(6) page report that provides end users with actionable insights into crop performance, resource utilization, and workforce efficiency, empowering data-driven decisions to enhance productivity and profitability.
+This report provides actionable insights by identifying the most profitable fields, crops, and locations, enabling better resource allocation and strategic planning. It helps optimize workforce deployment, equipment utilization, and budget management while guiding crop decisions based on sales, profit, and yield. Seasonal performance trends and cost breakdowns allow for effective planning and cost reduction. Additionally, the report offers a clear overview of business performance for stakeholders and tracks progress against key goals and KPIs.
 
 [Read More]()
 
@@ -32,6 +30,5 @@ This is a six(6) page report that provides end users with actionable insights in
 ![Image](Electricity.png.png)
 
 The report provides an analysis of energy consumption, focusing on two primary types: natural gas and electricity. It highlights energy usage across various sectors, enabling users to identify consumption patterns and trends. This insight will assist organizations in optimizing energy allocation to different sectors based on their specific demands, ensuring efficiency and meeting sectoral energy needs effectively.
-
 
 [Explore Report](https://app.powerbi.com/view?r=eyJrIjoiYzVlNzdjMWYtZTNiNC00MThmLTk0NDAtOTc2MDZmMGE0MTRmIiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
