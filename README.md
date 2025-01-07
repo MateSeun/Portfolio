@@ -17,6 +17,14 @@ This report provides a comprehensive overview of airline operations, including p
 
 [Explore Report](https://app.powerbi.com/view?r=eyJrIjoiOWQ3MTI3M2YtNDMwNy00OWM1LTk4NDItYWQxMTYxNDU5ODAzIiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
 
+**Market Campaign Report**
+![Image](Flight Operation.png)
+
+This report provides a comprehensive overview of airline operations, including passenger boarding patterns, comparisons of scheduled versus operated flights, flight delays and cancellations with their causes, and flight time metrics. It also evaluates call center performance, analyzing agent efficiency and call dispositions, while addressing customer concerns to assess overall service quality. These insights empower users to mitigate delays, reduce cancellations, and enhance operational efficiency.
+
+[Explore Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiOWNjMTIwMTctYWVjYy00NWMyLWI2OGItMzkzNmY0ZmY2YTc3IiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
+
+
 **Farming Analytics**
 ![Image](Farming analytics.png)
 
