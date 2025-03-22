@@ -10,6 +10,20 @@ Hi! I'm Seun Mate 🙂, A results-driven data analyst with a strong foundation i
 
 *A snapshot of some projects I worked on.*
 
+**Supplier Quality Report**
+![Image](Supplier quality.png)
+
+The Supplier Quality Report analyzes the quality performance of different suppliers based on defect quantities, downtime, and overall production output. Key aspects covered in the report include:
+Supplier Performance – Tracks the quantity supplied by each supplier and their corresponding defect rates.
+Defect Analysis – Evaluates defect quantities across different categories (e.g., Delivery Logistics, Packaging, Electrical Work).
+Downtime Impact – Measures downtime in minutes caused by defects, with a breakdown by supplier.
+Category-wise Contribution – Shows the proportion of materials or services provided by different categories.
+Geographic Analysis – Includes location-based filtering to analyze supplier quality performance across different regions.
+Defect Outcomes & Material Type – Provides insights into the impact of defects and the types of materials associated with issues.
+This report is useful for identifying high-performing suppliers, reducing defects, and improving supply chain efficiency.
+
+[Explore Report](https://app.powerbi.com/view?r=eyJrIjoiZjUxM2MxMGEtODFjNi00ZDAwLThiZGItZTA3YWRhYzhmN2JlIiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
+
 **Airline Operation Report**
 ![Image](Flight Operation.png)
 
@@ -32,6 +46,7 @@ Year-over-Year (YoY) Growth Trends – Economic growth rates fluctuate across re
 Global Economic Classifications – Countries are categorized based on economic performance, reflecting disparities in income levels, industrial output, and financial stability.
 Key Takeaways – Strategic insights on economic power shifts, potential investment opportunities, and risks associated with income inequality.
 This report serves as a valuable resource for decision-makers in finance, policy-making, and investment, providing a data-driven perspective on global economic trends.
+
 [Explore Report](https://app.powerbi.com/view?r=eyJrIjoiNjhmMTk2MGMtZjljZi00YWQ3LTkzNTktNzZjZDc3NmM2ODVjIiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
 
 **Farming Analytics**
