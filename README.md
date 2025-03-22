@@ -13,14 +13,7 @@ Hi! I'm Seun Mate 🙂, A results-driven data analyst with a strong foundation i
 **Supplier Quality Report**
 ![Image](Supplier quality.png)
 
-The Supplier Quality Report analyzes the quality performance of different suppliers based on defect quantities, downtime, and overall production output. Key aspects covered in the report include:
-Supplier Performance – Tracks the quantity supplied by each supplier and their corresponding defect rates.
-Defect Analysis – Evaluates defect quantities across different categories (e.g., Delivery Logistics, Packaging, Electrical Work).
-Downtime Impact – Measures downtime in minutes caused by defects, with a breakdown by supplier.
-Category-wise Contribution – Shows the proportion of materials or services provided by different categories.
-Geographic Analysis – Includes location-based filtering to analyze supplier quality performance across different regions.
-Defect Outcomes & Material Type – Provides insights into the impact of defects and the types of materials associated with issues.
-This report is useful for identifying high-performing suppliers, reducing defects, and improving supply chain efficiency.
+The Supplier Quality Report evaluates supplier performance by analyzing defect quantities, downtime, and production output. It highlights key metrics such as defect types, affected categories, and supplier contributions. The report helps identify quality issues, monitor supplier efficiency, and improve supply chain management by reducing defects and minimizing downtime.
 
 [Explore Report](https://app.powerbi.com/view?r=eyJrIjoiZjUxM2MxMGEtODFjNi00ZDAwLThiZGItZTA3YWRhYzhmN2JlIiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
 
@@ -40,12 +33,7 @@ The Market Campaign Analytics Dashboard enables marketers to track campaign effe
 
 **GDP Analysis**
 ![Image](GDP picture.png)
-This report provides a comprehensive analysis of economic contributions across different income groups and countries. Key insights include; Income Group Contributions – The global economy is segmented into various income groups, highlighting disparities in economic output and contributions.
-Top Economic Contributors – A handful of countries dominate global economic performance, with clear trends in GDP growth and stability.
-Year-over-Year (YoY) Growth Trends – Economic growth rates fluctuate across regions, with emerging economies showing rapid expansion while developed economies exhibit steady but slower growth.
-Global Economic Classifications – Countries are categorized based on economic performance, reflecting disparities in income levels, industrial output, and financial stability.
-Key Takeaways – Strategic insights on economic power shifts, potential investment opportunities, and risks associated with income inequality.
-This report serves as a valuable resource for decision-makers in finance, policy-making, and investment, providing a data-driven perspective on global economic trends.
+This report analyzes global economic contributions across income groups and countries, highlighting disparities in output, key contributors, and growth trends. It categorizes economies based on performance, identifies investment opportunities, and assesses risks linked to income inequality. The insights support decision-making in finance, policy, and investment.
 
 [Explore Report](https://app.powerbi.com/view?r=eyJrIjoiNjhmMTk2MGMtZjljZi00YWQ3LTkzNTktNzZjZDc3NmM2ODVjIiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
 
