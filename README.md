@@ -24,6 +24,14 @@ The Market Campaign Analytics Dashboard enables marketers to track campaign effe
 
 [Explore Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiOWNjMTIwMTctYWVjYy00NWMyLWI2OGItMzkzNmY0ZmY2YTc3IiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
 
+**GDP Analysis**
+This report provides a comprehensive analysis of economic contributions across different income groups and countries. Key insights include; Income Group Contributions – The global economy is segmented into various income groups, highlighting disparities in economic output and contributions.
+Top Economic Contributors – A handful of countries dominate global economic performance, with clear trends in GDP growth and stability.
+Year-over-Year (YoY) Growth Trends – Economic growth rates fluctuate across regions, with emerging economies showing rapid expansion while developed economies exhibit steady but slower growth.
+Global Economic Classifications – Countries are categorized based on economic performance, reflecting disparities in income levels, industrial output, and financial stability.
+Key Takeaways – Strategic insights on economic power shifts, potential investment opportunities, and risks associated with income inequality.
+This report serves as a valuable resource for decision-makers in finance, policy-making, and investment, providing a data-driven perspective on global economic trends.
+[Explore Report](https://app.powerbi.com/view?r=eyJrIjoiNjhmMTk2MGMtZjljZi00YWQ3LTkzNTktNzZjZDc3NmM2ODVjIiwidCI6IjcwODU3MjViLWYwMWQtNGQwMi1hZDFjLWIxYThhNmY0NDEwNiIsImMiOjh9)
 
 **Farming Analytics**
 ![Image](Farming analytics.png)
